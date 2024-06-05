@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9e0987f2.css","mappings":"AAAA,KACE,UAGF,OACE,YAGF,MACE","sources":["App.scss"],"sourcesContent":[".red {\n  color: rgb(255, 0, 0);\n}\n\n.green {\n  color: rgb(0, 128, 0);\n}\n\n.blue {\n  color: rgb(0, 0, 255);\n}\n"],"names":[],"sourceRoot":""}
